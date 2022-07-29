@@ -1,0 +1,18 @@
+@font-face {
+  font-family: Baron;
+  font-weight: 400;
+  font-display: swap;
+  src: local('Baron'), url('./fonts/BaronNeue-Regular.otf') format('otf'),
+    url('./fonts/BaronNeue-Regular.otf') format('otf'),
+    url('./fonts/BaronNeue-Regular.otf') format('truetype');
+}
+
+@font-face {
+  font-family: Baron;
+  font-weight: 700;
+  font-display: Baron;
+  src: local('Baron'), url('./fonts/BaronNeue-Bold.otf') format('otf'),
+    url('./fonts/BaronNeue-Bold.otf') format('otf'),
+    url('./fonts/BaronNeue-Bold.otf') format('truetype');
+}
+
